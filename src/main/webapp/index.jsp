@@ -8,9 +8,22 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Together</title>
+    <%-- css   --%>
+    <%-- script --%>
+    <%-- kmyeongjun124 start --%>
+    <%-- kmyeongjun124 end --%>
+    <%-- NLGZstart start--%>
+    <%-- NLGZ start --%>
+
+    <%-- script   --%>
+    <%-- script --%>
+    <%-- kmyeongjun124 start --%>
+    <%-- kmyeongjun124 end --%>
+    <%-- NLGZstart --%>
+    <%-- NLGZ start --%>
 </head>
 <body>
 <h1>Together</h1>
-<a href="${pageContext.request.contextPath}/MyeongJun0911">MyeongJun0911</a>
+    <a href="${pageContext.request.contextPath}/MyeongJun0911">MyeongJun0911</a>
 </body>
 </html>
