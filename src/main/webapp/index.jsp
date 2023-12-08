@@ -12,5 +12,7 @@
 <body>
 <h1>Together</h1>
 <a href="${pageContext.request.contextPath}/MyeongJun0911">MyeongJun0911</a>
+<a href="${pageContext.request.contextPath}/Nngz">Nlgz</a>
+
 </body>
 </html>
