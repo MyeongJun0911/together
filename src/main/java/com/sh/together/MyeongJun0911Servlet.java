@@ -14,5 +14,7 @@ public class MyeongJun0911Servlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().println("MyeongJun0911😌");
+
+
     }
 }
