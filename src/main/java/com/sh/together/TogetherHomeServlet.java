@@ -15,4 +15,5 @@ public class TogetherHomeServlet extends HttpServlet {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().append("Hello world");
     }
+
 }
